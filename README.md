@@ -8,3 +8,8 @@ Modified by curbfeeler for P-ROC.
 If you only want to run the tool without worrying about source and are using windows, just copy the contents of cslashtemp to 
 C:\Temp and run the jar file.  The lampshow template files and ledmap.txt files need to exist in this C:\temp directory (for now)
 
+Tool in Action
+https://youtu.be/qy_B0Ykx5zk
+
+End Result WIP
+https://youtu.be/8wnSwJYoick
