@@ -1,0 +1,78 @@
+##############################################################
+# Lightshow: attract_show_1
+# Type: simple
+# Length: 32 frames / 1 seconds
+##############################################################
+# Markers:                                  |        8      16
+# Frames:                                   | 1234567812345678
+lamp:eject75K                               | 
+lamp:eject50K                               | 
+lamp:eject25K                               | 
+lamp:ejectLightExtraBall                    | 
+lamp:scoreEnergy                            | 
+lamp:solarEnergyValue                       | 
+lamp:chestMatrix11                          | 
+lamp:chestMatrix12                          | 
+lamp:chestMatrix13                          | 
+lamp:chestMatrix14                          | 
+lamp:chestMatrix15                          | 
+lamp:chestMatrix21                          | 
+lamp:chestMatrix22                          | 
+lamp:chestMatrix23                          | 
+lamp:chestMatrix24                          | 
+lamp:chestMatrix25                          | 
+lamp:chestMatrix31                          | 
+lamp:chestMatrix32                          | 
+lamp:chestMatrix33                          | 
+lamp:chestMatrix34                          | 
+lamp:chestMatrix35                          | 
+lamp:chestMatrix41                          | 
+lamp:chestMatrix42                          | 
+lamp:chestMatrix43                          | 
+lamp:chestMatrix44                          | 
+lamp:chestMatrix45                          | 
+lamp:chestMatrix51                          | 
+lamp:chestMatrix52                          | 
+lamp:chestMatrix53                          | 
+lamp:chestMatrix54                          | 
+lamp:chestMatrix55                          | 
+lamp:dropTarget1Top                         | 
+lamp:dropTarget2Middle                      | 
+lamp:dropTargetTimerLamp                    | 
+lamp:dropTarget3Bottom                      | 
+lamp:pluto                                  | 
+lamp:neptune                                | 
+lamp:uranus                                 | 
+lamp:saturn                                 | 
+lamp:specialLamp                            | 
+lamp:advancePlanent                         | 
+lamp:jupiter                                | 
+lamp:mars                                   | 
+lamp:earth                                  | 
+lamp:venus                                  | 
+lamp:mercury                                | 
+lamp:leftOutLaneExtraBall                   | 
+lamp:leftInLaneExtraBall                    | 
+lamp:rightInLaneExtraBall                   | 
+lamp:rightOutLaneExtraBall                  | 
+lamp:x2Bonus                                | 
+lamp:x3Bonus                                | 
+lamp:x4Bonus                                | 
+lamp:x5Bonus                                | 
+lamp:shootAgain                             | 
+lamp:mouth1LeftBackBox                      | 
+lamp:mouth2BackBox                          | 
+lamp:mouth3BackBox                          | 
+lamp:mouth4BackBox                          | 
+lamp:mouth5RightBackBox                     | 
+lamp:notUsedLamp83                          | 
+#coil:feedShooter_UpperPFFLash              | 
+#coil:dropTargetReset_RightInsertBDFlasher  | 
+#coil:raiseRamp_LowerPFTop1Flasher          | 
+#coil:lowerRamp_EnergyFlashers              | 
+#coil:singleEjectHole_LeftInsertBDFlasher   | 
+#coil:leftEyeballEject_LeftPlayfieldFlasher | 
+#coil:rightEyeballEject_SunFlasher          | 
+#coil:top3Flashers                          | 
+#coil:top4CenterFlashers                    | 
+#                                           | #                                           | #                                           | 
